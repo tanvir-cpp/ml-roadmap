@@ -80,6 +80,3 @@ Covers supervised learning, unsupervised learning, learning theory, and reinforc
 
 [![A Gentle Introduction to Machine Learning](https://img.youtube.com/vi/Gv9_4yMHFhI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
-**Machine Learning is one of those things that is chock full of hype and confusing terminology.**
-
-In this StatQuest, we cut through all of that to get at the most basic ideas that make a foundation for the whole thing. These ideas are simple and easy to understand. After watching this StatQuest, you'll be ready to learn all kinds of new and exciting things about Machine Learning.
